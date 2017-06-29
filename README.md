@@ -1,12 +1,12 @@
-#Getting and Cleaning Data - Course Project
+Getting and Cleaning Data - Course Project
 
-##This repository contains the course project for the "Getting and Cleaning Data" course. 
-##The dataset used is: Human Activity Recognition Using Smartphones
+This repository contains the course project for the "Getting and Cleaning Data" course. 
+The dataset used is: Human Activity Recognition Using Smartphones
 
 Files:
 
-##1.- CodeBook.md: describes the variables, the data, and any transformations that were performed to clean up the data.
-##2.- run_analysis.R: contains all the code to clean up the data:
+1.- CodeBook.md: describes the variables, the data, and any transformations that were performed to clean up the data.
+2.- run_analysis.R: contains all the code to clean up the data:
 
 	1. Download and unzip the dataset in the working directory
 	2. Read the train and test datasets
