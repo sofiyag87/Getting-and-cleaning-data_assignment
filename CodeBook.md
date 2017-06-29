@@ -17,6 +17,7 @@ The file contains the average measurements for each subject and activity:
  - 68 variables (columns): the activity, the subject and 66 measurements.  
 
 The Identifiers are:
+
  [1] "subject" : ID of the subject                    
  [2] "activity" : tye of activity                  
  [3] "tBodyAcc-mean()-X"           
